@@ -1,0 +1,14 @@
+{
+  "name": "rcmd-server",
+  "version": "1.0.0",
+  "description": "Remote Command Execution Server",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Wen Chang",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.0"
+  }
+}
